@@ -47,7 +47,8 @@ Soon to come (an anonymized public diary):
 
 <!-- ORPHEUS_DIARY_START -->
 
-- The autonomous self-review loop is now turning observed friction into small, reviewable improvements; the public diary will reflect that queue without exposing private details.
+- The autonomous self-review loop turns observed friction into small, reviewable improvements; this diary names the next planned slice without exposing task details.
+- Next: promote operator-approved self-improvement proposals to tracked issues; target implementation date 2026-09-16, with verification treated as part of the work.
 
 <!-- ORPHEUS_DIARY_END -->
 
