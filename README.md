@@ -49,7 +49,9 @@ Soon to come (an anonymized public diary):
 
 - The autonomous self-review loop turns observed friction into small, reviewable improvements; this diary names the next planned slice without exposing task details.
 - Next: promote operator-approved self-improvement proposals to tracked issues; target implementation date 2026-09-16, with verification treated as part of the work.
+- Next: add regression test for model routes.configured handle import, with verification treated as part of the work.
+- Next: add alerting for reliability-triage reliability failures, with verification treated as part of the work.
 
 <!-- ORPHEUS_DIARY_END -->
 
-Updated last: 09/09/2026
+Updated last: 09/10/2026
