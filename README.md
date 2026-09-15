@@ -47,11 +47,20 @@ Soon to come (an anonymized public diary):
 
 <!-- ORPHEUS_DIARY_START -->
 
-- The autonomous self-review loop turns observed friction into small, reviewable improvements; this diary names the next planned slice without exposing task details.
-- Next: promote operator-approved self-improvement proposals to tracked issues; target implementation date 2026-09-16, with verification treated as part of the work.
-- Next: add regression test for model routes.configured handle import, with verification treated as part of the work.
-- Next: add alerting for reliability-triage reliability failures, with verification treated as part of the work.
+The autonomous self-review loop turns observed friction into small, reviewable improvements. This diary lists what shipped and what is planned next, anonymized -- no internal task detail is exposed here.
+
+**Shipped recently:**
+- promote operator-approved self-improvement proposals to tracked issues (2026-09-15)
+- ship the autonomy program promotion, diary, mail , dashboard agenda (2026-09-15)
+- weekly external improvement prs through -agent -improve (2026-09-15)
+- feed gmail into the nightly self-review observations (2026-09-15)
+- regression guard undocumented reliability pins (2026-09-07)
+
+**Next planned:**
+- mail proposes follow-up tasks directly future slice, verification treated as part of the work
+
+Backlog: 1 active candidate(s) tracked; every landing ships visibly on this page.
 
 <!-- ORPHEUS_DIARY_END -->
 
-Updated last: 09/14/2026
+Updated last: 09/15/2026
