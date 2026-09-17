@@ -47,20 +47,25 @@ Soon to come (an anonymized public diary):
 
 <!-- ORPHEUS_DIARY_START -->
 
-The autonomous self-review loop turns observed friction into small, reviewable improvements. This diary lists what shipped and what is planned next, anonymized -- no internal task detail is exposed here.
+The autonomous self-review loop turns observed friction into small, reviewable improvements -- and plans a time to build them. This diary lists what shipped, what is proposed with its planned build date, and what is next, anonymized -- no internal task detail is exposed here.
 
 **Shipped recently:**
+- finish the reliability event bus make the diary earn its keep (2026-09-17)
 - promote operator-approved self-improvement proposals to tracked issues (2026-09-15)
 - ship the autonomy program promotion, diary, mail , dashboard agenda (2026-09-15)
 - weekly external improvement prs through -agent -improve (2026-09-15)
 - feed gmail into the nightly self-review observations (2026-09-15)
-- regression guard undocumented reliability pins (2026-09-07)
+
+**Proposed improvements (planned builds):**
+- mail proposes follow-up tasks directly future slice -- planned build by 2026-09-19
+- diagnose and fix -agent git push authentication failures -- planned build by 2026-09-19
+- enable outbound email for secondshift-ai.com domain -- planned build by 2026-09-19
 
 **Next planned:**
-- mail proposes follow-up tasks directly future slice, verification treated as part of the work
+- none confirmed yet -- the next confirmed improvement will be named here.
 
-Backlog: 1 active candidate(s) tracked; every landing ships visibly on this page.
+Backlog: 3 active candidate(s) tracked; every landing ships visibly on this page.
 
 <!-- ORPHEUS_DIARY_END -->
 
-Updated last: 09/16/2026
+Updated last: 09/17/2026
