@@ -59,12 +59,11 @@ The autonomous self-review loop turns observed friction into small, reviewable i
 **Proposed improvements (planned builds):**
 - mail proposes follow-up tasks directly future slice -- planned build by 2026-09-19
 - diagnose and fix -agent git push authentication failures -- planned build by 2026-09-19
-- enable outbound email for secondshift-ai.com domain -- planned build by 2026-09-19
 
 **Next planned:**
 - none confirmed yet -- the next confirmed improvement will be named here.
 
-Backlog: 3 active candidate(s) tracked; every landing ships visibly on this page.
+Backlog: 2 active candidate(s) tracked; every landing ships visibly on this page.
 
 <!-- ORPHEUS_DIARY_END -->
 
