@@ -64,8 +64,8 @@ The autonomous self-review loop turns observed friction into small, reviewable i
 **Next planned:**
 - none confirmed yet -- the next confirmed improvement will be named here.
 
-Backlog: 4 active candidate(s) tracked; every landing ships visibly on this page.
+Backlog: 6 active candidate(s) tracked; every landing ships visibly on this page.
 
 <!-- ORPHEUS_DIARY_END -->
 
-Updated last: 09/19/2026
+Updated last: 09/20/2026
