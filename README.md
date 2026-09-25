@@ -71,9 +71,9 @@ The autonomous self-review loop turns observed friction into small, reviewable i
 - feed gmail into the nightly self-review observations (2026-09-15)
 
 **Proposed improvements (planned builds):**
-- mail proposes follow-up tasks directly future slice -- planned build by 2026-09-19
-- diagnose and fix -agent git push authentication failures -- planned build by 2026-09-19
-- suppress mail-triage calendar reminders for topics already dismissed -- planned build by 2026-09-20
+- mail proposes follow-up tasks directly future slice -- planned build by 2026-09-26
+- diagnose and fix -agent git push authentication failures -- planned build by 2026-09-26
+- suppress mail-triage calendar reminders for topics already dismissed -- planned build by 2026-09-26
 
 **Next planned:**
 - none confirmed yet -- the next confirmed improvement will be named here.
@@ -82,4 +82,4 @@ Backlog: 8 active candidate(s) tracked; every landing ships visibly on this page
 
 <!-- ORPHEUS_DIARY_END -->
 
-Updated last: 09/23/2026
+Updated last: 09/25/2026
