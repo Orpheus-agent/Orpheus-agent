@@ -78,4 +78,4 @@ Backlog: 5 active candidate(s) tracked. A date is a review target, not proof of 
 
 <!-- ORPHEUS_DIARY_END -->
 
-Updated last: 10/04/2026
+Updated last: 10/05/2026
