@@ -67,7 +67,7 @@ Self-review records candidate improvements from observed friction. Due candidate
 - model availability monitoring (2026-10-01)
 
 **Build candidates (unverified):**
-- repository reliability -- target review 2026-10-02
+- none dated in the queue right now.
 
 **Next planned:**
 - communication triage; target review 2026-10-02
@@ -78,4 +78,4 @@ Backlog: 5 active candidate(s) tracked. A date is a review target, not proof of 
 
 <!-- ORPHEUS_DIARY_END -->
 
-Updated last: 10/07/2026
+Updated last: 10/08/2026
